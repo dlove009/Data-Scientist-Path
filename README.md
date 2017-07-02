@@ -12,3 +12,4 @@ Records of the path of my learning
 yhat blog
 Data Scientice Weekly
 
+In the next steps. I am going to use three months do projects and get more practice on python skill. 
