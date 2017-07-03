@@ -11,5 +11,8 @@ Records of the path of my learning
 6) blogs: 
 yhat blog
 Data Scientice Weekly
+Data Camp
+Variance Explained
+Simplystats
 
 In the next steps. I am going to use three months do projects and get more practice on python skill. 
