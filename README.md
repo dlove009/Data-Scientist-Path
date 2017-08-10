@@ -1,21 +1,55 @@
-# Data-Scientist-Path
+# A Machine Learning/ Deep Learning Engineer skill path
+update date: 08/10/2017
 Records of the path of my learning
-1) Taking CS109: 
-    link:http://cs109.github.io/2015/
-    I will skip the general lecture after week 9 and maybe catch up later.
-    I will focus on the lab only.  
+Three Target in Aug and Sep
+1) Learn all the words mentioned by the job description of alibaba.
+    Write one understanding everyday. 
+2) Proficient in Java.
+    Take that three Java courses in IMOOC. Aug 10 to Aug 30.
+    Take Java courses in jiuzhang. Begin at Sep 1 
     
-2) Taking Database Course from Stanford (in fall semester):
+3) Taking Datastructure Course from Stanford (in fall semester):
     link:https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about
-3) Statitics: book https://www.amazon.com/Think-Stats-Exploratory-Data-Analysis/dp/1491907339/ref=sr_1_1?ie=UTF8&qid=1496105887&sr=8-1&keywords=think+stats
+    * can also read python data structure books.
+    
+4) Prepare for interview questions.
+    Probility question.
+    other computer science question.
+    basic hadoop and map reduce.
 
-4) Hardoop and map reduce (finished the first step)
-5) Dive deep to scalar and Java(in fall semester).
-6) blogs: 
-yhat blog
-Data Scientice Weekly
-Data Camp
-Variance Explained
-Simplystats
+Working 10 hour a day. 9am to 10pm. 
+one hour in the noon. 
+one hour in the afternoon 
+and excesis and shower 1 hour
+Take one day off per week.
+* Time manage:
+1) one word everyday. 2hours 9:00 - 11:00
+2) 30min Java course in IMOOC everyday. 11:30
+3) one algrithm problem everyday. 1hour. 12:30 - 1:30
+4) Data structure course 1 hour everyday. 1:30 - 2:30
+6) interview problem 1 hour 2:30 - 3:30
+7) read news and paper 1hour 3:30 - 4:30
+everyday 7 hours.
+5:00 - 7:00 super and excerise and shower
+7:30 - 9:30 ESD
+ESD paper finish before
+ESD 2 hour. for papers. and simulations. 
 
-In the next steps. I am going to use three months do projects and get more practice on python skill. 
+Target in Oct and Nov.
+1) Familiar with tensorflow.
+2) Finish a good project on computer vision or other project use tensorflow. 
+
+Target in Dec. 
+1) A project in deep learning.
+2) Reading Deep Learning Book, understand deep learning in depth.
+
+Finished:
+1) CS109: 
+    link:http://cs109.github.io/2015/
+    Almost done, only left few lectures. The project and HW is interesting. If have time, will go through.
+    
+2) Course on IMOOC of hardoop and map reduce
+    Very Basic, if have time finish one program on hardoop.
+
+    
+
