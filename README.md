@@ -23,13 +23,14 @@ one hour in the afternoon
 and excesis and shower 1 hour
 Take one day off per week.
 * Time manage:
-1) one word everyday. 2hours 9:00 - 11:00
+1) one deep learning course/word everyday. 2hours 9:00 - 11:00
 2) 30min Java course in IMOOC everyday. 11:30
 3) one algrithm problem everyday. 1hour. 12:30 - 1:30
-4) Data structure course 1 hour everyday. 1:30 - 2:30
+4) 牛客网/Data structure course 1 hour everyday. 1:30 - 2:30
 6) interview problem 1 hour 2:30 - 3:30
 7) read news and paper 1hour 3:30 - 4:30
 everyday 7 hours.
+
 5:00 - 7:00 super and excerise and shower
 7:30 - 9:30 ESD
 ESD paper finish before
