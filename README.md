@@ -51,6 +51,8 @@ Finished:
     
 2) Course on IMOOC of hardoop and map reduce
     Very Basic, if have time finish one program on hardoop.
+    
+3) DeepLearning.TV course on DeepLearning. Youtube
 
     
 
