@@ -16,6 +16,7 @@ Three Target in Aug and Sep
     Probility question.
     other computer science question.
     basic hadoop and map reduce.
+5) ML/DL course: CS229/CS231n/CS225n Stanford.
 
 Working 10 hour a day. 9am to 10pm. 
 one hour in the noon. 
